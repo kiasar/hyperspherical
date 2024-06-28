@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hyperspherical"
+version = "0.1.0"
+description = "A package for converting between Cartesian and hyper-spherical (n-sphere) coordinates"
+readme = "README.md"
+authors = [{name = "Peyman M. Kiasari", email = "pmkiasari@gmail.com"}]
+license = {file = "LICENSE"}
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+keywords = ["coordinates", "cartesian", "spherical", "conversion"]
+dependencies = [
+    "numpy",
+]
+"requires-python" = ">=3.6"
+
+[project.urls]
+Homepage = "https://github.com/kiasar/hyperspherical"

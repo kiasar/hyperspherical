@@ -1,0 +1,11 @@
+LICENSE.md
+README.md
+pyproject.toml
+setup.py
+src/hyperspherical/__init__.py
+src/hyperspherical/convert.py
+src/hyperspherical.egg-info/PKG-INFO
+src/hyperspherical.egg-info/SOURCES.txt
+src/hyperspherical.egg-info/dependency_links.txt
+src/hyperspherical.egg-info/requires.txt
+src/hyperspherical.egg-info/top_level.txt
