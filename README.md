@@ -1,4 +1,6 @@
 # Hyperspherical
+[![Downloads](https://static.pepy.tech/badge/Hyperspherical)](https://pepy.tech/project/Hyperspherical)
+[![Downloads](https://static.pepy.tech/badge/Hyperspherical/month)](https://pepy.tech/project/Hyperspherical)
 
 Hyperspherical is a Python package for converting between Cartesian and hyper-spherical (n-sphere) coordinates in any number of dimensions.
 It also works for 2D cartesian and polar coordinates.
