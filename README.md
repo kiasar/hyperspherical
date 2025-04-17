@@ -13,7 +13,7 @@ It also works for 2D cartesian and polar coordinates.
 
 You can install Hyperspherical using pip:
 
-```
+```console
 pip install hyperspherical
 ```
 
