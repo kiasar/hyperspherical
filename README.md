@@ -1,4 +1,4 @@
-![Hyperspherical Python Package](logo.png)
+<img src="logo.png" alt="Hyperspherical Python Package" width="200"/>
 
 # Hyperspherical
 [![Downloads](https://static.pepy.tech/badge/Hyperspherical)](https://pepy.tech/project/Hyperspherical)
