@@ -1,3 +1,5 @@
+![Hyperspherical Python Package](logo.png)
+
 # Hyperspherical
 [![Downloads](https://static.pepy.tech/badge/Hyperspherical)](https://pepy.tech/project/Hyperspherical)
 [![Downloads](https://static.pepy.tech/badge/Hyperspherical/month)](https://pepy.tech/project/Hyperspherical)
