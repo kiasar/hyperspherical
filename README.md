@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Logo.png" alt="Hyperspherical Python Package" width="250"/>
+  <img src="/logo.png" alt="Hyperspherical Python Package" width="250"/>
 </div>
 
 # Hyperspherical
